@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/octofinder/static/css/main.beef7374.chunk.css",
+    "main.js": "/octofinder/static/js/main.89959a35.chunk.js",
+    "main.js.map": "/octofinder/static/js/main.89959a35.chunk.js.map",
+    "runtime-main.js": "/octofinder/static/js/runtime-main.230f98e5.js",
+    "runtime-main.js.map": "/octofinder/static/js/runtime-main.230f98e5.js.map",
+    "static/js/2.8d3b47b3.chunk.js": "/octofinder/static/js/2.8d3b47b3.chunk.js",
+    "static/js/2.8d3b47b3.chunk.js.map": "/octofinder/static/js/2.8d3b47b3.chunk.js.map",
+    "index.html": "/octofinder/index.html",
+    "precache-manifest.9fc110dd6e6ddae7d8b126066486011d.js": "/octofinder/precache-manifest.9fc110dd6e6ddae7d8b126066486011d.js",
+    "service-worker.js": "/octofinder/service-worker.js",
+    "static/css/main.beef7374.chunk.css.map": "/octofinder/static/css/main.beef7374.chunk.css.map",
+    "static/js/2.8d3b47b3.chunk.js.LICENSE.txt": "/octofinder/static/js/2.8d3b47b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230f98e5.js",
+    "static/js/2.8d3b47b3.chunk.js",
+    "static/css/main.beef7374.chunk.css",
+    "static/js/main.89959a35.chunk.js"
+  ]
+}
