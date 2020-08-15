@@ -1,14 +1,29 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 
 const Navbar = ({ logo, title }) => {
   return (
     <nav className='navbar bg-primary'>
-      <h1>
-        <i className={logo} />
-        <span> </span>
-        {title}
-      </h1>
+      <Link to='/'>
+        <h1>
+          <i className={logo} />
+          <span> </span>
+          {title}
+        </h1>
+      </Link>
+      <ul className='ul-flex'>
+        <li>
+          <Link to='/'>
+            <i className='bx bxs-home lead' />
+          </Link>
+        </li>
+        <li>
+          <Link to='/about'>
+            <i class='bx bxs-help-circle lead' />
+          </Link>
+        </li>
+      </ul>
     </nav>
   );
 };
