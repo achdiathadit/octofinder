@@ -50,7 +50,16 @@ const User = ({ user, loading, getUser, getUserRepos, repos, match }) => {
           />
           <h2>{name}</h2>
           <h4>({login})</h4>
-          {location ? <p>in {location}</p> : <p>on Earth</p>}
+          {location ? (
+            <p>
+              in <i class='bx bxs-map'></i>
+              {location}
+            </p>
+          ) : (
+            <p>
+              on <i class='bx bx-globe'></i> Earth
+            </p>
+          )}
         </div>
         <div>
           {bio && (
