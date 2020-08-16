@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/octofinder/precache-manifest.9fc110dd6e6ddae7d8b126066486011d.js"
+  "/octofinder/precache-manifest.979ab40b38e5fd853d48263450e78912.js"
 );
 
 self.addEventListener('message', (event) => {
