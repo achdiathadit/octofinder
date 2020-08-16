@@ -20,7 +20,7 @@ const Navbar = ({ logo, title }) => {
         </li>
         <li>
           <Link to='/about'>
-            <i class='bx bxs-help-circle lead' />
+            <i className='bx bxs-help-circle lead' />
           </Link>
         </li>
       </ul>
