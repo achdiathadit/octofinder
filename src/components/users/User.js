@@ -40,7 +40,7 @@ const User = ({ match }) => {
           className='btn btn-mild'
           style={{ width: '190px', borderRadius: '8px' }}
         >
-          <i class='bx bxs-left-arrow-alt'></i> Back to search
+          <i className='bx bxs-left-arrow-alt'></i> Back to search
         </button>
       </Link>
 
@@ -56,7 +56,7 @@ const User = ({ match }) => {
           <h4>({login})</h4>
           {location ? (
             <p>
-              in <i class='bx bxs-map'></i>
+              in <i className='bx bxs-map'></i>
               {location}
             </p>
           ) : (
