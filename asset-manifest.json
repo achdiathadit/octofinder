@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/octofinder/static/css/main.beef7374.chunk.css",
-    "main.js": "/octofinder/static/js/main.76dbbe82.chunk.js",
-    "main.js.map": "/octofinder/static/js/main.76dbbe82.chunk.js.map",
+    "main.js": "/octofinder/static/js/main.c5c7b209.chunk.js",
+    "main.js.map": "/octofinder/static/js/main.c5c7b209.chunk.js.map",
     "runtime-main.js": "/octofinder/static/js/runtime-main.230f98e5.js",
     "runtime-main.js.map": "/octofinder/static/js/runtime-main.230f98e5.js.map",
-    "static/js/2.49845bf6.chunk.js": "/octofinder/static/js/2.49845bf6.chunk.js",
-    "static/js/2.49845bf6.chunk.js.map": "/octofinder/static/js/2.49845bf6.chunk.js.map",
+    "static/js/2.aedb581f.chunk.js": "/octofinder/static/js/2.aedb581f.chunk.js",
+    "static/js/2.aedb581f.chunk.js.map": "/octofinder/static/js/2.aedb581f.chunk.js.map",
     "index.html": "/octofinder/index.html",
-    "precache-manifest.979ab40b38e5fd853d48263450e78912.js": "/octofinder/precache-manifest.979ab40b38e5fd853d48263450e78912.js",
+    "precache-manifest.0ca9387aac2d925ead229ac89ab152ca.js": "/octofinder/precache-manifest.0ca9387aac2d925ead229ac89ab152ca.js",
     "service-worker.js": "/octofinder/service-worker.js",
     "static/css/main.beef7374.chunk.css.map": "/octofinder/static/css/main.beef7374.chunk.css.map",
-    "static/js/2.49845bf6.chunk.js.LICENSE.txt": "/octofinder/static/js/2.49845bf6.chunk.js.LICENSE.txt"
+    "static/js/2.aedb581f.chunk.js.LICENSE.txt": "/octofinder/static/js/2.aedb581f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.230f98e5.js",
-    "static/js/2.49845bf6.chunk.js",
+    "static/js/2.aedb581f.chunk.js",
     "static/css/main.beef7374.chunk.css",
-    "static/js/main.76dbbe82.chunk.js"
+    "static/js/main.c5c7b209.chunk.js"
   ]
 }
