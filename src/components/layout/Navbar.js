@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Navbar = ({ logo, title }) => {
   return (
     <nav className='navbar bg-primary'>
-      <Link to='/'>
+      <Link to='/octofinder'>
         <h1>
           <i className={logo} />
           <span> </span>
@@ -14,7 +14,7 @@ const Navbar = ({ logo, title }) => {
       </Link>
       <ul className='ul-flex'>
         <li>
-          <Link to='/'>
+          <Link to='/octofinder'>
             <i className='bx bxs-home lead' />
           </Link>
         </li>
