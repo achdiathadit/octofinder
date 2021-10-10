@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3213a5f6f5413db1e11104bb28ee9dfa",
+    "revision": "4c342ea7de1a103942ccd98c66dd356a",
     "url": "/octofinder/index.html"
   },
   {
-    "revision": "a1cfd172f258d45a4dc4",
+    "revision": "604638bbdbcec6a36f65",
     "url": "/octofinder/static/css/main.beef7374.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/octofinder/static/js/2.aedb581f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1cfd172f258d45a4dc4",
-    "url": "/octofinder/static/js/main.1e55c8d2.chunk.js"
+    "revision": "604638bbdbcec6a36f65",
+    "url": "/octofinder/static/js/main.77a58683.chunk.js"
   },
   {
     "revision": "6156111d7f8a0ba844ca",
